@@ -1,0 +1,980 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">1028610328</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">7955207</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">24080016</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">827578868</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">4225053</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">138188240</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">19215730</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">6639626</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">727588</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">532156772</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">4074155</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">11984663</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">428678554</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">2177398</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">71374134</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">10152298</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">3332551</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">383019</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">496453556</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">3881052</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">12095353</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">398900314</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">2047655</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">66814106</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">9063432</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">3307075</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Total</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">344569</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">286119689</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">3061597</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">8186058</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">216315573</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">3215706</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">49393496</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">5109249</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">637158</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">200852</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">150554098</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">1574746</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">4041122</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">114241019</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">1656365</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">25900643</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">2708405</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">324027</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">107771</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">135565591</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">1486851</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">4144936</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">102074554</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">1559341</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">23492853</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">2400844</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">313131</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Urban</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">93081</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">742490639</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">4893610</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">15893958</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">611263295</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">1009347</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">88794744</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">14106481</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">6002468</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Both Sexes</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">526736</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">381602674</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">2499409</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">7943541</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">314437535</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">521033</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">45473491</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">7443893</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">3008524</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Male</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">275248</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Total</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">360887965</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Buddhist</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">2394201</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Christian</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">7950417</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Hindu</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">296825760</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Jains</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">488314</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Muslim</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">43321253</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Sikh</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">6662588</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Other</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">2993944</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Area">Rural</field>
+            <field name="Sex">Female</field>
+            <field name="Religion">Not Specified</field>
+            <field name="Record Type">Census - de facto - complete tabulation</field>
+            <field name="Reliability">Final figure, complete</field>
+            <field name="Source Year">2003</field>
+            <field name="Value">251488</field>
+            <field name="Value Footnotes">1,2</field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote footnoteSeqID="1">Includes data for the Indian-held part of Jammu and Kashmir, the final status of which has not yet been determined.</footnote>
+        <footnote footnoteSeqID="2">Excluding Mao-Maram, Paomata and Purul sub-divisions of Senapati district of Manipur. The population of Manipur including the estimated population of the three sub-divisions of Senapati district is 2,291,125 (Males 1,161,173 and females 1,129,952).</footnote>
+    </footnotes>
+</ROOT>
